@@ -17,5 +17,5 @@ Das Zenodo repository ist über diesen Link erreichbar: https://zenodo.org/commu
 
 ## Fehler/Verbesserungsvorschläge
 
-Wenn Sie in einem der auf Zenodo veröffentlichten Datensätze Fehler gefunden haben oder Verbesserungsvorschläge einbringen möchten, erstellen Sie bitte ein neues Issue oder kommentieren bei einem bestehenden Issue hier: https://github.com/SeanFobbe/jura-daten/issues
+Wenn Sie in einem der auf Zenodo veröffentlichten Datensätze Fehler gefunden haben oder Verbesserungsvorschläge einbringen möchten, erstellen Sie bitte ein neues Issue oder kommentieren bei einem bestehenden Issue hier: https://github.com/SeanFobbe/jura-daten/issues Geben Sie bitte an, um welchen Datensatz und welche Version es es sich handelt!
 
